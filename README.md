@@ -66,11 +66,11 @@ Blast for Organism Identification:
 
 ## Structural Bioinformatics
 
-# Finding the Protein in Multiple Databases:
+- Finding the Protein in Multiple Databases:
 
 1. Implement robust search algorithms to locate specific protein sequences across multiple databases, ensuring comprehensive coverage and accuracy.
    
-# PDB Structure Retrieval:
+- PDB Structure Retrieval:
 
 2. Develop efficient methods to retrieve protein structures from the Protein Data Bank (PDB), leveraging APIs and web scraping techniques for seamless data access.
 Distance, Mass, Parser:
@@ -80,18 +80,18 @@ Molecular Visualization:
 
 4. Utilize state-of-the-art molecular visualization tools to render protein structures in three-dimensional space, enabling intuitive exploration and analysis.
    
-# Multi-threading Functionality:
+- Multi-threading Functionality:
 
 5. Implement multi-threading functionality to enhance performance and scalability, enabling parallel processing of large datasets and complex structural analyses.
    
-# Extracting More Information from a PDB File:
+- Extracting More Information from a PDB File:
 
 6. Develop algorithms to extract additional information from PDB files, including ligand interactions, secondary structure elements, and biochemical properties, enriching structural annotations.
    
-# Animating Protein Structure:
+- Animating Protein Structure:
 
 7. Implement animation techniques to visualize dynamic protein structures, enabling the depiction of conformational changes and molecular dynamics simulations.
 
-# Parsing mmCIF Files:
+- Parsing mmCIF Files:
 
 8. Extend parsing capabilities to handle mmCIF (macromolecular Crystallographic Information File) format files, facilitating interoperability and compatibility with diverse structural databases and resources.
